@@ -3,7 +3,7 @@
 }
 
 .lists, .outlines{
-    background-color: rgba(226, 33, 49, 0.671);
+    font-weight: bold;
 }
 
 .lists li{
