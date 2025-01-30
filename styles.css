@@ -2,4 +2,15 @@
     background-color: rgb(240, 165, 54);
 }
 
+.lists, .outlines{
+    background-color: rgba(226, 33, 49, 0.671);
+}
 
+.lists li{
+    color: rgb(87, 20, 20);
+    font-weight: 500;
+}
+
+.outlines li{
+    color:rgb(18, 59, 18)
+}
